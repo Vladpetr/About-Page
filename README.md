@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼I am currently working on a universal customer loyalty app for small and medium-sized businesses.<br>🤝🏻I am looking to collaborate on projects that involve the intersection of software engineering and machine learning.<br>💡 I'm currently expanding my knowledge in areas such as containerization and cloud architecture.<br>❓ Ask me about optimizing systems and enhancing user experiences.
+💼I am currently working on a universal customer loyalty app for small and medium-sized businesses.<br>🤝🏻I am looking to collaborate on projects that involve the intersection of software engineering and machine learning.<br>💡 I am currently expanding my knowledge in areas such as containerization and cloud architecture.<br>❓ Ask me about optimizing systems and enhancing user experiences.
 
 
 ## 🌐 Socials:
